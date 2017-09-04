@@ -14,9 +14,9 @@
 
 - [x] Count Words in a String – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
-- [_] Text Editor – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
+- [x] Text Editor – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 
-- [_] RSS Feed Creator – A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
+- [ ] RSS Feed Creator – A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
 
 - [_] Post it Notes Program – A program where you can add text reminders and post them. You can have the program also add popup reminders.
 
