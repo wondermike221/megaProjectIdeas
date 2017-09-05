@@ -9,7 +9,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [x] Find e to the Nth Digit - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
-- [ ] Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+- [x] Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 - [ ] Prime Factorization - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
