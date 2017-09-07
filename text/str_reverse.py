@@ -6,4 +6,4 @@ def str_reverse(string):
 
 if __name__ == "__main__":
     import sys
-    print str_reverse(sys.argv[1])
+    print(str_reverse(sys.argv[1]))

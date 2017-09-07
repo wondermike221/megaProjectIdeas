@@ -10,4 +10,4 @@ def pig_latinfy(string):
 
 if __name__ == "__main__":
     import sys
-    print pig_latinfy(sys.argv[1])
+    print(pig_latinfy(sys.argv[1]))

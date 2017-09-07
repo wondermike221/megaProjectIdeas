@@ -9,4 +9,4 @@ def count_words(string):
 
 if __name__ == "__main__":
     import sys
-    print count_words(sys.argv[1])
+    print(count_words(sys.argv[1]))
