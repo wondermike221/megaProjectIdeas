@@ -49,6 +49,9 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] Fast Exponentiation - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity.
 
+### my own ideas:
+
+
 ## Text
 
 - [x] FizzBuzz - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
@@ -87,7 +90,10 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] Regex Query Tool – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
-- [ ] More in the book...
+### my own ideas:
+
+
+
 
 
 ## Networking
@@ -139,7 +145,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] Library Catalog – Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
 
-- [ ] More in the book...
+### my own ideas:
 
 
 - [ ] Threading
@@ -152,7 +158,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] Bulk Thumbnail Creator – Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc.
 
-- [ ] More in the book...
+### my own ideas:
 
 
 ## Web
@@ -189,8 +195,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] CAPTCHA Maker – Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms. If you use PHP, take a look at the image functions of GD.
 
-- [ ] More in the book...
-
+### my own ideas:
 
 ## Files
 
@@ -226,8 +231,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] Versioning Manager – Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
 
-- [ ] More in the book...
-
+### my own ideas:
 
 ## Databases
 
@@ -257,8 +261,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] Web Board (Forum) – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
 
-- [ ] More in the book...
-
+### my own ideas:
 
 ## Graphics and Multimedia
 
@@ -296,8 +299,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 - [ ] Turtle Graphics – This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for “Turtle Graphics” for more information.
 
-- [ ] More in the book...
-
+### my own ideas:
 
 ## Games
 
@@ -310,3 +312,6 @@ I will make the simple ones as modularized as possible and I will put my own ide
 - [ ] Crossword Puzzle – Create a crossword puzzle which links words together on common letters. Provide a list of clues for each word and let the user enter fill in the words until the entire crossword is filled in.
 
 - [ ] Frogger – Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
+
+### my own ideas:
+
