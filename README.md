@@ -197,6 +197,8 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 ### my own ideas:
 
+- [ ] Shortlink Engine - There are lots of services that offer shortlinks (goo.gl, bit.ly, tinyurl.com). Turns out, it's a pretty straightforward service. Try creating a simple webserver that accepts CREATE and READ operations for URL redirection.
+
 ## Files
 
 - [ ] Quiz Maker – Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.
