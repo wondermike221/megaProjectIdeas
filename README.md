@@ -51,6 +51,7 @@ I will make the simple ones as modularized as possible and I will put my own ide
 
 ### my own ideas:
 
+- [ ] (Stats) CLT Simulator - Show that the Central Limit Theorem (CLT) holds for large enough samples. CLT states that in most situations, when independent random variables are added, their properly normalized sum tends toward a normal distribution (informally a "bell curve") even if the original variables themselves are not normally distributed.
 
 ## Text
 
